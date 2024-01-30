@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Himani Sharma
-- 👀 I’m currently working in Python and Django domain as Backend Developer.
-- 🌱 I’m trained Data Science.
+- 👀 I’m currently working as Backend Developer with profficiency in Python and Django.
+- 🌱 Certified Data Scientist.
 - 💞️ I’m looking to collaborate on Github.
 - 📮 How to reach me ...
 - 📫 shimani379@gmail.com
