@@ -15,9 +15,7 @@ Certified Data Scientist with practical exposure to ML pipelines, computer visio
 🤝 Let’s Collaborate
 
 Open to contributing to backend-focused open-source projects.
-
 Interested in fintech, job portals, social platforms, e-commerce, and large-scale system design.
-
 Always eager to learn, build, and collaborate on impactful products.
 
 📬 Reach me at shimani379@gmail.com
