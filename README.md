@@ -1,24 +1,24 @@
 👋 Hi, I’m Himani Sharma
-
-💻 Backend Developer | 🐍 Python & Django Specialist | 📊 Certified Data Scientist
+💻 Backend Developer |Python & Django |FastAPI |AWS |Certified Data Scientist
 
 🚀 About Me
 
-  ->Passionate about building scalable backend systems, APIs, and data-driven applications.
- 
-  ->Skilled in Python, Django (DRF), FastAPI, PostgreSQL, SQLAlchemy, and backend architecture design.
-  
-  ->Experience in moderation workflows, reporting systems, user/org management, and social features like follower/following.
-  
-  ->Hands-on in database optimization, automation, and secure authentication mechanisms.
-  
-  ->Certified Data Scientist, with a strong foundation in machine learning and practical use of YOLOv8, data pipelines, and inference systems.
+I’m a backend-focused developer passionate about building scalable, secure, and production-ready systems. I enjoy turning complex business requirements into clean backend architectures and reliable APIs. 
+Strong experience in Python, Django (DRF), FastAPI, and GraphQL for building scalable backend services. 
+Hands-on experience designing microservices, RESTful APIs, and custom admin panels beyond Django’s default admin.
+Built and maintained moderation and reporting systems, user/organization management, and social features like follow/unfollow.
+Experienced with PostgreSQL (multi-schema design), query optimization, and ORM-based data modeling.
+Worked with AWS for deployment and infrastructure, including EC2, ECR, Kubernetes, S3 presigned URLs, SNS, and SQS.
+Implemented secure authentication using JWT and cross-service authorization.
+Certified Data Scientist with practical exposure to ML pipelines, computer vision (YOLOv8), data preprocessing, and inference systems.
 
 🤝 Let’s Collaborate
 
-  ->Open to contributing on open-source backend projects.
-  
-  ->Interested in teaching-tech platforms, fintech, e-commerce, and scalable system design.
+Open to contributing to backend-focused open-source projects.
+
+Interested in fintech, job portals, social platforms, e-commerce, and large-scale system design.
+
+Always eager to learn, build, and collaborate on impactful products.
 
 📬 Reach me at shimani379@gmail.com
 
