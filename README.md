@@ -1,26 +1,43 @@
-👋 Hi, I’m Himani Sharma
-💻 Backend Developer |Python & Django |FastAPI |AWS |Certified Data Scientist
+# 👋 Hi, I’m Himani Sharma
 
-🚀 About Me
+### Backend Engineer | Building Scalable APIs & Backend Systems
+---
 
-I’m a backend-focused developer passionate about building scalable, secure, and production-ready systems. I enjoy turning complex business requirements into clean backend architectures and reliable APIs. 
-Strong experience in Python, Django (DRF), FastAPI, and GraphQL for building scalable backend services. 
-Hands-on experience designing microservices, RESTful APIs, and custom admin panels beyond Django’s default admin.
-Built and maintained moderation and reporting systems, user/organization management, and social features like follow/unfollow.
-Experienced with PostgreSQL (multi-schema design), query optimization, and ORM-based data modeling.
-Worked with AWS for deployment and infrastructure, including EC2, ECR, Kubernetes, S3 presigned URLs, SNS, and SQS.
-Implemented secure authentication using JWT and cross-service authorization.
-Certified Data Scientist with practical exposure to ML pipelines, computer vision (YOLOv8), data preprocessing, and inference systems.
+## 🚀 About Me
 
-🤝 Let’s Collaborate
+I’m a backend-focused engineer passionate about building reliable, scalable, and maintainable systems.  
+I enjoy turning complex product requirements into clean backend architecture and efficient APIs.
 
-Open to contributing to backend-focused open-source projects.
-Interested in fintech, job portals, social platforms, e-commerce, and large-scale system design.
-Always eager to learn, build, and collaborate on impactful products.
+- Strong experience with **Python, Django (DRF), FastAPI, GraphQL, and REST APIs**
+- Built backend systems for **social platforms, moderation workflows, user/org management, and reporting flows**
+- Hands-on experience with **microservices, PostgreSQL, ORM-based data modeling, and query optimization**
+- Worked on **AWS infrastructure and deployment workflows**, including **EC2, ECR, S3, SNS, SQS, and Kubernetes**
+- Implemented **secure authentication, authorization flows, and service-to-service integrations**
+- Certified in **Data Science**, with exposure to **ML pipelines, computer vision, and inference systems**
 
-📬 Reach me at shimani379@gmail.com
+---
 
-<!---
-Himani1Sharma/Himani1Sharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💡 What I Like Building
+
+- Scalable backend systems
+- API-first applications
+- Moderation and reporting systems
+- Social platform features
+- Production-ready backend architectures
+- Clean, maintainable service design
+
+---
+
+## 🤝 Let’s Collaborate
+
+Open to contributing to **backend-focused projects**, **scalable products**, and **real-world engineering problems**.
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/himani-sharma379/
+- **Email:** shimani379@gmail.com
+
+---
+⭐ Always learning, building, and improving.
